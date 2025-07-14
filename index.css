@@ -91,7 +91,7 @@ html {
   background: linear-gradient(-45deg, #3b82f6, #8b5cf6, #06b6d4, #3b82f6);
   background-size: 400% 400%;
   animation: gradient 3s ease infinite;
-}
+} 
 
 /* Hover effects */
 .hover-lift {
@@ -154,3 +154,4 @@ button:focus {
 .text-gradient {
   @apply bg-gradient-to-r from-blue-400 via-purple-500 to-teal-400 bg-clip-text text-transparent;
 }
+;
